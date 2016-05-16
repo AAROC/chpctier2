@@ -1,2 +1,2 @@
 # chpctier2
-Private issues with the CHPC Tier2 Facility
+CHPC Tier2 Facility repository for all thing related to it.
